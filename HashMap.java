@@ -1,5 +1,3 @@
-package hw8;
-
 import java.lang.reflect.Array;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
